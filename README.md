@@ -57,12 +57,9 @@
 ---
 
 ## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=FHIROZ&show_icons=true&theme=tokyonight)
 
-![Fhiroz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FHIROZ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FHIROZ&layout=compact&theme=tokyonight&hide_border=true)
-
----
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FHIROZ&layout=compact&theme=tokyonight)
 
 ## 📫 Connect With Me
 
