@@ -161,34 +161,7 @@ My frontend work focuses on:
 
 ---
 
-# 📚 Currently Learning
 
-### ServiceNow
-
-- Advanced GlideRecord
-- GlideAjax
-- Script Includes
-- Client-Server Communication
-- Service Portal
-- Catalog Development
-- IntegrationHub
-- REST APIs
-- Flow Designer
-- Virtual Agent
-- Now Assist
-- Application Development
-
-### Frontend
-
-- Advanced React
-- React Hooks
-- API Integration
-- Component Architecture
-- Responsive UI
-- Frontend Performance
-- Modern JavaScript
-
----
 
 # 🏆 Achievements
 
@@ -221,15 +194,7 @@ I'm currently seeking opportunities in:
 **Frontend Development**  
 **React Development**
 
----
 
-# 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=FHIROZ&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FHIROZ&layout=compact&theme=tokyonight)
-
----
 
 # 📫 Connect With Me
 
